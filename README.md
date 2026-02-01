@@ -32,7 +32,8 @@ Python 3.8+
 
 Install dependencies
 ```
-pip install requests beautifulsoup4 tqdm
+pip install -r requirements.txt
+
 ```
 
 *****🚀 Usage*****
