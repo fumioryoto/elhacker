@@ -119,6 +119,8 @@ Focused on learning automation, cybersecurity, and reverse engineering.
 
 --max-depth
 
+--thread increase
+
 Resume interrupted downloads
 
 Domain restriction
